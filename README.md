@@ -1,1 +1,1 @@
-# Portfolio this is a calculator coded by myself
+this is a calculator coded by myself
